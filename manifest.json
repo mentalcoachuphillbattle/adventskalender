@@ -1,0 +1,20 @@
+{
+  "name": "Mentaler Adventskalender 2026 – uphillbattle.ch",
+  "short_name": "Adventskalender",
+  "description": "24 Türchen mit einem kleinen mentalen Werkzeug für den Kopf.",
+  "lang": "de-CH",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "id": "uphillbattle-advent-2026",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101418",
+  "theme_color": "#101418",
+  "categories": ["health", "lifestyle", "education"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
